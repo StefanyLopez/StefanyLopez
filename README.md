@@ -1,12 +1,12 @@
-# Hola, soy Steff 👋
+# Hi, I'm Steff 👋
 
-Soy Generalista 3D y estudiante de Ingeniería en Multimedia, próxima a graduarme, con base en Bogotá. Me apasiona combinar arte y tecnología para crear experiencias interactivas. Disfruto trabajar en modelado 3D, shaders en Unity, interfaces, desarrollo frontend y proyectos donde puedo explorar tanto la parte visual como la técnica.
+I'm a 3D Generalist and Multimedia Engineering student based in Bogotá, currently finishing my degree. I'm passionate about combining art and technology to create interactive experiences. I enjoy working on 3D modeling, shaders in Unity, UI design, frontend development, and projects where I can explore both the visual and technical sides.
 
-He participado en el desarrollo de videojuegos, instalaciones interactivas y aplicaciones, y siempre busco entender el proyecto de forma integral para que cada detalle aporte a una mejor experiencia.
+I've been involved in video game development, interactive installations, and applications — always looking to understand the project as a whole so every detail contributes to a better experience.
 
 ---
 
-**Motor & Technical Art**
+**Engine & Technical Art**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -14,7 +14,7 @@ He participado en el desarrollo de videojuegos, instalaciones interactivas y apl
 ![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=flat&logoColor=white)
 ![Substance Designer](https://img.shields.io/badge/Substance%20Designer-E77A26?style=flat&logo=adobe&logoColor=white)
 
-**3D & Arte**
+**3D & Art**
 
 ![Maya](https://img.shields.io/badge/Maya-37A1F4?style=flat&logo=autodesk&logoColor=white)
 ![ZBrush](https://img.shields.io/badge/ZBrush-F55B27?style=flat&logoColor=white)
@@ -25,6 +25,7 @@ He participado en el desarrollo de videojuegos, instalaciones interactivas y apl
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat&logo=davinciresolve&logoColor=white)
 
 **Web & UI**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -32,7 +33,6 @@ He participado en el desarrollo de videojuegos, instalaciones interactivas y apl
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
 
 **Mobile & Computer Vision**
 
