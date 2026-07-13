@@ -11,12 +11,18 @@ He participado en el desarrollo de videojuegos, instalaciones interactivas y apl
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=flat&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=flat&logoColor=white)
+![Substance Designer](https://img.shields.io/badge/Substance%20Designer-E77A26?style=flat&logo=adobe&logoColor=white)
 
 **3D & Arte**
 
 ![Maya](https://img.shields.io/badge/Maya-37A1F4?style=flat&logo=autodesk&logoColor=white)
 ![ZBrush](https://img.shields.io/badge/ZBrush-F55B27?style=flat&logoColor=white)
 ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6B00?style=flat&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat&logo=davinciresolve&logoColor=white)
 
 **Web & UI**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
